@@ -3,9 +3,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.kbastani</groupId>
-    <artifactId>spring-cloud-microservice-example-parent</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <groupId>org.empinfo</groupId>
+    <artifactId>verifynow</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -17,6 +17,7 @@
         <module>hystrix-dashboard</module>
         <module>consul-microservice</module>
         <module>movie-microservice</module>
+        <module>report-service</module>
         <module>movies-ui</module>
     </modules>
 

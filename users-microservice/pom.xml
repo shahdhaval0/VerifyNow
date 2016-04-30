@@ -7,13 +7,13 @@
     <packaging>jar</packaging>
 
     <parent>
-        <groupId>org.kbastani</groupId>
-        <artifactId>spring-cloud-microservice-example-parent</artifactId>
-        <version>0.1.0-SNAPSHOT</version>
+        <groupId>org.empinfo</groupId>
+        <artifactId>verifynow</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
     </parent>
 
     <properties>
-        <docker.image.prefix>kbastani</docker.image.prefix>
+        <docker.image.prefix>verifynow</docker.image.prefix>
     </properties>
 
     <dependencies>

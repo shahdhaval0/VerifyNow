@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
     <groupId>org.kbastani</groupId>
     <properties>
-        <docker.image.prefix>kbastani</docker.image.prefix>
+        <docker.image.prefix>verifynow</docker.image.prefix>
         <docker.plugin.version>0.3.258</docker.plugin.version>
     </properties>
     <dependencies>
